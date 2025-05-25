@@ -83,6 +83,13 @@ and
 
         return actions[(agent_1_action, agent_2_action)]
 ```
+Model 1 leading to 
+
+![model1](pics/Model1_same_personality_not_greedy.png)
+
+while model 2
+
+![model2](pics/Model2_same_personality_not_greedy.png)
 
 
 
